@@ -1,0 +1,44 @@
+/*
+	This file is part of FormCreator.
+
+	Copyright (c) 2012-2019 Remy Gardette
+
+	This software has been released under the MIT License. 
+	You should have received a copy of the MIT License along with this software. 
+	If not, see <>http://opensource.org/licenses/MIT>.
+*/
+
+div.footer {
+	margin-top: 15px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 11px;
+}
+
+textarea.form_result {
+	font-family: "Courier New",Courier,monospace;
+	font-size: 0.85em;
+}
+
+#forkme_banner {
+	background-color: #0090FF;
+	color: white;
+}
+
+label {
+	text-align: right;
+}
+
+img.logo {
+	display: block;
+	margin: 0 auto;
+	max-width: 90%;
+	margin-bottom: 20px;
+}
+
+nav {
+	background-color: #FDF7EA;
+	border-bottom: rgb(223, 208, 177) 1px solid;
+	border-width: 1px;
+	margin-bottom: 20px;
+}
